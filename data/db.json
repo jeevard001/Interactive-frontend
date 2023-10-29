@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Why do we use it?\nIt is a long estalished fact that a reader will be distracted Why do we use it?\nIt is a long estalished fact that a reader will be distracted",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "My first Blog",
+      "body": "Why do we use it?\nIt is a long estalished fact that a reader will be distracted Why do we use it?\nIt is a long estalished fact that a reader will be distracted",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "body": "My name is mouli karthik",
+      "author": "yochi",
+      "id": 4
+    }
+  ]
+}
